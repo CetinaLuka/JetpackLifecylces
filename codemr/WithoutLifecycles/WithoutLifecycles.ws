@@ -1,0 +1,1 @@
+{"app":{"name":"app","packages":{"":{"packageName":"","isAll":false,"classes":["LLocationRepository","LLocationModel","LLocationRepository.Companion"]},"com.i.withoutlifecycles":{"packageName":"com.i.withoutlifecycles","isAll":false,"classes":["Lcom.i.withoutlifecycles.MainActivity"]}}}}
